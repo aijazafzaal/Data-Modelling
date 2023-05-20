@@ -1,4 +1,4 @@
-Building a data model and deploying the model into the database.  
+Creating a database and building a data model and subsequently deploying the model into the database.  
 Postgres and Python libraries psycopg2 and pandas utilized.  
 
 ER diagram (made using http://draw.io):    
